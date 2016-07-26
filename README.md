@@ -25,7 +25,7 @@ You'll be using knex to create the migrations and seeds, and you'll deploy the D
   * Other FK are encouraged, but not required
 * Must be seeded with:
  * At least 1 user
-  * Use [this site](https://www.dailycred.com/article/bcrypt-calculator) to generate a bcrypt hashed password to seed your users with
+   * Use [this site](https://www.dailycred.com/article/bcrypt-calculator) to generate a bcrypt hashed password to seed your users with
  * At least 5 rows in your resource(s) table
 
 # Deploy!
