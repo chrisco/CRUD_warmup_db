@@ -18,6 +18,7 @@ Fork/clone this repo.
 
 * Must create an ERD for your DB _first_
  * Take a picture or screenshot of your ERD, and add it to this README file.
+![Screenshot](erd.png)
 * Must include a user table with at least these fields:
  * id
  * username
