@@ -8,6 +8,8 @@ You'll be using knex to create the migrations and seeds, and you'll deploy the D
 
 # Getting Started
 
+Fork/clone this repo.
+
 ### Choose a resource to CRUD on.
 
 [This repo](https://github.com/gSchool/CRUD_Practice_Examples) has many examples to choose from, but feel free to choose anything that meets the requirements below.
