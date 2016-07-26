@@ -16,13 +16,16 @@ You'll be using knex to create the migrations and seeds, and you'll deploy the D
 
 * Must create an ERD for your DB _first_
  * Take a picture or screenshot of your ERD, and add it to this README file.
-* Must include at least 1 FK relationship
 * Must include a user table with at least these fields:
  * id
  * username
  * password
+* Must include at least 1 FK relationship
+  * At least 1 table must include a FK `user_id` that points to the user table
+  * Other FK are encouraged, but not required
 * Must be seeded with:
  * At least 1 user
+  * Use [this site](https://www.dailycred.com/article/bcrypt-calculator) to generate a bcrypt hashed password to seed your users with
  * At least 5 rows in your resource(s) table
 
 # Deploy!
